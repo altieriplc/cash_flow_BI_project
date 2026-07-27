@@ -2,6 +2,13 @@
 
 End-to-end financial BI project in Power BI: AR/AP cash flow analysis with star schema modeling, DAX time intelligence, and multi-page executive dashboards.
 
-## Executive Overview
+## Financial Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Financial Overview](screenshots/financial-overview.png)
+
+
+## Client Analysis
+![Executive Overview](screenshots/client-analysis.png)
+
+
+
