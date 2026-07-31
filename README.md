@@ -11,4 +11,8 @@ End-to-end financial BI project in Power BI: AR/AP cash flow analysis with star 
 ![Executive Overview](screenshots/client-analysis.png)
 
 
+## Supplier Analysis
+![Executive Overview](screenshots/supplier-analysis.png)
+
+
 
